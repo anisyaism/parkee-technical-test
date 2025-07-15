@@ -5,7 +5,7 @@ This repo created for Parkee Technical Test.
 > How to see test case directly You can click Example Test Case Title or **:link: [Click Here Test Case](https://docs.google.com/spreadsheets/d/1pC5mRWiIYH7dOAQQW8bb_XUxgLeCbAzmV4u9VlPFBAE/edit?usp=sharing)**
 > <br>You can also download the Excel file in this Repository.
 
-# :pushpin: [About Parkee](https://parkee.app/en/about-us)
+<!--- # :pushpin: [About Parkee](https://parkee.app/en/about-us)
 PARKEE is a parking payment system solution (available on mobile and desktop) that utilizes digital technology to transform the parking industry in Indonesia. One of PARKEE's missions as a parking industry startup is to transform traditional
 paper-based parking methods into paperless ones.
 
@@ -35,5 +35,7 @@ Verify and validate the **Online Parking Receipt** is generated after a complete
 | TCRCPT-001        | Verify that "Online Receipt" will be generate when user Scan QR Code in the Exit Gate and successfully PAID   | User already Login on the APP   | Positive Case  | 1. Click "QR" icon on the homepage<br>2. Scan the QR Code in the Exit Gate<br>3. Successfully Paid    | Successfully Generate the Online Receipt   | As expected       | ✅ Pass|
 
 Thank you :pray:
+
+-->
 
 
